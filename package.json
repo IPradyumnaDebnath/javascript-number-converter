@@ -20,7 +20,9 @@
     "roman",
     "binary",
     "hexadecimal",
-    "octal"
+    "octal",
+    "react",
+    "vue"
     
   ],
   "jest": {
