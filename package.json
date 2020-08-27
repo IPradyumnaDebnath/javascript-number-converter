@@ -1,0 +1,41 @@
+{
+  "name": "javascript-number-converter",
+  "version": "1.0.0",
+  "description": "All Number Conversion at one place",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IPradyumnaDebnath/all-in-one-number-converter.git"
+  },
+  "keywords": [
+    "javascript",
+    "number",
+    "number conversion",
+    "convertor",
+    "converter",
+    "base",
+    "roman",
+    "binary",
+    "hexadecimal",
+    "octal"
+    
+  ],
+  "jest": {
+    "verbose": true
+  },
+  "author": "Pradyumna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IPradyumnaDebnath/all-in-one-number-converter/issues"
+  },
+  "homepage": "https://github.com/IPradyumnaDebnath/all-in-one-number-converter#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.10.4"
+  }
+}
