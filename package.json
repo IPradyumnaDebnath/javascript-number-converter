@@ -1,6 +1,6 @@
 {
   "name": "javascript-number-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All Number Conversion at one place",
   "main": "./src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IPradyumnaDebnath/all-in-one-number-converter.git"
+    "url": "git+https://github.com/IPradyumnaDebnath/javascript-number-converter"
   },
   "keywords": [
     "javascript",
@@ -23,7 +23,6 @@
     "octal",
     "react",
     "vue"
-    
   ],
   "jest": {
     "verbose": true
@@ -31,9 +30,9 @@
   "author": "Pradyumna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IPradyumnaDebnath/all-in-one-number-converter/issues"
+    "url": "https://github.com/IPradyumnaDebnath/javascript-number-converter/issues"
   },
-  "homepage": "https://github.com/IPradyumnaDebnath/all-in-one-number-converter#readme",
+  "homepage": "https://github.com/IPradyumnaDebnath/javascript-number-converter#readme",
   "dependencies": {
     "jest": "^26.4.2"
   },

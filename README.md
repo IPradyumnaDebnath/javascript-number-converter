@@ -34,4 +34,4 @@ const romanConversion = toRoman(number,curbase)
 import {toNewBase} from 'all-in-one-number-converter';
 const baseConverted = toNewBase(number,curbase,newbase) 
 
-#### *Any issues with this package please raise [all-in-one-number-converter-issue](https://github.com/IPradyumnaDebnath/all-in-one-number-converter/issues/new "all-in-one-number-converter-issue")*
+#### *Any issues with this package please raise [javascript-number-converter](https://github.com/IPradyumnaDebnath/javascript-number-converter/issues/new "javascript-number-converter")*
